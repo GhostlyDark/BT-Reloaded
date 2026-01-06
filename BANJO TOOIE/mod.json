@@ -6,7 +6,7 @@
     "display_name" : "BT Reloaded",
     "game_id" : "bt",
     "id" : "BT-Reloaded",
-    "minimum_recomp_version" : "1.0.0",
+    "minimum_recomp_version" : "0.0.1",
     "short_description" : "HD texture pack",
     "version" : "0.1.0"
 }

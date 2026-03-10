@@ -33,13 +33,13 @@ Pre-compiled `.hts` files are `cache` files and have to be located inside:
 
 **Only for advanced users:** HTS cache can be generated from the source PNG textures:
 
-- Project64: `Project64/Plugin/GFX/hires_texture/BANJO-TOOIE`
-- RMG: `RMG/Data/hires_texture/BANJO-TOOIE`
+- Project64: `Project64/Plugin/GFX/hires_texture/BANJO TOOIE`
+- RMG: `RMG/Data/hires_texture/BANJO TOOIE`
 - mupen64plus:
--- Windows: `%appdata%/mupen64plus/hires_texture/BANJO-TOOIE`
--- Linux: `~/.local/share/mupen64plus/hires_texture/BANJO-TOOIE`
--- macOS: `~/Library/Application Support/Mupen64plus/hires_texture/BANJO-TOOIE`
-- mupen64plus-nx (RetroArch): `RetroArch/system/Mupen64plus/hires_texture/BANJO-TOOIE`
+-- Windows: `%appdata%/mupen64plus/hires_texture/BANJO TOOIE`
+-- Linux: `~/.local/share/mupen64plus/hires_texture/BANJO TOOIE`
+-- macOS: `~/Library/Application Support/Mupen64plus/hires_texture/BANJO TOOIE`
+- mupen64plus-nx (RetroArch): `RetroArch/system/Mupen64plus/hires_texture/BANJO TOOIE`
 
 
 Required graphics settings (named differently depending on emulator):

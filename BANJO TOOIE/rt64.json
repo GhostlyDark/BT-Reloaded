@@ -18,6 +18,10 @@
         },
         {
             "shift": "half",
+            "wildcard": "File Select\\Portrait\\*"
+        },
+        {
+            "shift": "half",
             "wildcard": "UI\\Pre-rendered\\*"
         }
     ],
